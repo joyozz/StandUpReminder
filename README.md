@@ -1,5 +1,7 @@
 # Stand Up Reminder
 
+[中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
+
 一个 Windows 系统托盘应用，每隔 40-60 分钟提醒你站起来活动一下。
 
 ## 功能特点

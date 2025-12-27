@@ -1,5 +1,7 @@
 # Stand Up Reminder
 
+[中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
+
 A Windows system tray application that reminds you to stand up and stretch every 40-60 minutes.
 
 ## Features
